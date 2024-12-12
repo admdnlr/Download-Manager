@@ -1,0 +1,12 @@
+C:\Users\cnr_2\source\repos\DownloadManager\DownloadManager\bin\Debug\DownloadManager.exe.config
+C:\Users\cnr_2\source\repos\DownloadManager\DownloadManager\bin\Debug\DownloadManager.exe
+C:\Users\cnr_2\source\repos\DownloadManager\DownloadManager\bin\Debug\DownloadManager.pdb
+C:\Users\cnr_2\source\repos\DownloadManager\DownloadManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cnr_2\source\repos\DownloadManager\DownloadManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cnr_2\source\repos\DownloadManager\DownloadManager\obj\Debug\DownloadManager.csproj.AssemblyReference.cache
+C:\Users\cnr_2\source\repos\DownloadManager\DownloadManager\obj\Debug\DownloadManager.Properties.Resources.resources
+C:\Users\cnr_2\source\repos\DownloadManager\DownloadManager\obj\Debug\DownloadManager.csproj.GenerateResource.cache
+C:\Users\cnr_2\source\repos\DownloadManager\DownloadManager\obj\Debug\DownloadManager.csproj.CoreCompileInputs.cache
+C:\Users\cnr_2\source\repos\DownloadManager\DownloadManager\obj\Debug\Download.CDEC9442.Up2Date
+C:\Users\cnr_2\source\repos\DownloadManager\DownloadManager\obj\Debug\DownloadManager.exe
+C:\Users\cnr_2\source\repos\DownloadManager\DownloadManager\obj\Debug\DownloadManager.pdb

@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|c:\\users\\cnr_2\\source\\repos\\downloadmanager\\downloadmanager\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|solutionrelative:downloadmanager\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\downloadmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|solutionrelative:downloadmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\downloadmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|solutionrelative:downloadmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\downloadmanager\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|solutionrelative:downloadmanager\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\downloadmanager\\downloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|solutionrelative:downloadmanager\\downloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\downloadmanager\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|solutionrelative:downloadmanager\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\downloadmanager\\downloadpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|solutionrelative:downloadmanager\\downloadpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\downloadmanager\\filemerger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|solutionrelative:downloadmanager\\filemerger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\downloadmanager\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|solutionrelative:downloadmanager\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\downloadmanager\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|solutionrelative:downloadmanager\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\downloadmanager\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|solutionrelative:downloadmanager\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\downloadmanager\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|solutionrelative:downloadmanager\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\downloadmanager\\settingsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|solutionrelative:downloadmanager\\settingsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\downloadmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6875C321-2DF9-48AA-8BEA-95D1454FD14D}|DownloadManager\\DownloadManager.csproj|solutionrelative:downloadmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\Settings.cs",
+              "RelativeDocumentMoniker": "DownloadManager\\Settings.cs",
+              "ToolTip": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\Settings.cs",
+              "RelativeToolTip": "DownloadManager\\Settings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:08:01.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SettingsManager.cs",
+              "DocumentMoniker": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\SettingsManager.cs",
+              "RelativeDocumentMoniker": "DownloadManager\\SettingsManager.cs",
+              "ToolTip": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\SettingsManager.cs",
+              "RelativeToolTip": "DownloadManager\\SettingsManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:58:39.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Config.json",
+              "DocumentMoniker": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\Config.json",
+              "RelativeDocumentMoniker": "DownloadManager\\Config.json",
+              "ToolTip": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\Config.json",
+              "RelativeToolTip": "DownloadManager\\Config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T18:10:51.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\Utilities.cs",
+              "RelativeDocumentMoniker": "DownloadManager\\Utilities.cs",
+              "ToolTip": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\Utilities.cs",
+              "RelativeToolTip": "DownloadManager\\Utilities.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAwwHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:07:58.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileMerger.cs",
+              "DocumentMoniker": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\FileMerger.cs",
+              "RelativeDocumentMoniker": "DownloadManager\\FileMerger.cs",
+              "ToolTip": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\FileMerger.cs",
+              "RelativeToolTip": "DownloadManager\\FileMerger.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:06:22.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DownloadPart.cs",
+              "DocumentMoniker": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\DownloadPart.cs",
+              "RelativeDocumentMoniker": "DownloadManager\\DownloadPart.cs",
+              "ToolTip": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\DownloadPart.cs",
+              "RelativeToolTip": "DownloadManager\\DownloadPart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:04:38.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SettingsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\SettingsForm.Designer.cs",
+              "RelativeDocumentMoniker": "DownloadManager\\SettingsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\SettingsForm.Designer.cs",
+              "RelativeToolTip": "DownloadManager\\SettingsForm.Designer.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAqwHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:02:33.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SettingsForm.cs",
+              "DocumentMoniker": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "DownloadManager\\SettingsForm.cs",
+              "ToolTip": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\SettingsForm.cs",
+              "RelativeToolTip": "DownloadManager\\SettingsForm.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:02:15.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SettingsForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "DownloadManager\\SettingsForm.cs",
+              "ToolTip": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\SettingsForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "DownloadManager\\SettingsForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:02:03.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "DownloadManager\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\MainForm.Designer.cs",
+              "RelativeToolTip": "DownloadManager\\MainForm.Designer.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAgwIsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:55:25.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\MainForm.cs",
+              "RelativeDocumentMoniker": "DownloadManager\\MainForm.cs",
+              "ToolTip": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\MainForm.cs",
+              "RelativeToolTip": "DownloadManager\\MainForm.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:53:24.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\MainForm.cs",
+              "RelativeDocumentMoniker": "DownloadManager\\MainForm.cs",
+              "ToolTip": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\MainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "DownloadManager\\MainForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:53:15.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Downloader.cs",
+              "DocumentMoniker": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\Downloader.cs",
+              "RelativeDocumentMoniker": "DownloadManager\\Downloader.cs",
+              "ToolTip": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\Downloader.cs",
+              "RelativeToolTip": "DownloadManager\\Downloader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:45:57.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\Program.cs",
+              "RelativeDocumentMoniker": "DownloadManager\\Program.cs",
+              "ToolTip": "C:\\Users\\cnr_2\\source\\repos\\DownloadManager\\DownloadManager\\Program.cs",
+              "RelativeToolTip": "DownloadManager\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:44:55.171Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
